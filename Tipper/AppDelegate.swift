@@ -4,7 +4,6 @@
 //
 //  Created by Saumeel Gajera on 7/8/16.
 //  Copyright © 2016 walmart. All rights reserved.
-//
 
 import UIKit
 
